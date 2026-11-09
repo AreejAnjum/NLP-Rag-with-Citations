@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+venv/
+.venv/
+
+# Secrets
+.env
+
+# Generated indexes and processed data
+data/processed/
+data/index/
+*.faiss
+*.sqlite3
+chroma/
+
+# OS and editor
+.DS_Store
+.idea/
+.vscode/

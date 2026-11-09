@@ -1,0 +1,9 @@
+# Replace the placeholders with GitHub usernames.
+/src/ingestion/   @dev1-username
+/src/retrieval/   @dev2-username
+/src/generation/  @dev3-username
+/src/api/         @dev4-username
+/src/evaluation/  @dev4-username
+/scripts/         @dev4-username
+/data/            @dev1-username
+/docs/            @dev4-username
